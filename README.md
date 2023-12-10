@@ -1,6 +1,6 @@
-# ![avatar](https://github.com/hibahmt/hibahmt/assets/90691577/038e0db5-9661-4e35-b368-8edd7858b3ab)  Hi there, I'm Hiba aka hmt 
+# ![avatar](https://github.com/hibahmt/hibahmt/assets/90691577/038e0db5-9661-4e35-b368-8edd7858b3ab)  Hi there, I'm Hiba
 
-## 📈 Data Enthusiast | 👩🏻‍💼💻 R & D Specialist | ✨ Cheminformatics | 👩🏻‍💻 Data Curator
+### 📈 Data Enthusiast | 👩🏻‍💼💻 R & D Specialist | ✨ Cheminformatics | 👩🏻‍💻 Data Curator
   - Welcome to my GitHub playground, where data comes to life, and insights take center stage. 
   - I'm a passionate data enthusiast with a focus on cheminformatics, data curation, and R.
 
